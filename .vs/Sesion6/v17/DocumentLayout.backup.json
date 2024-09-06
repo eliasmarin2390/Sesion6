@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\elias\\source\\repos\\sesion6\\sesion6\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Ejercicio1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\ejercicio1\\iamgenes\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\iamgenes\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C2189-1F1C-4968-973D-71293E773368}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\elias\\source\\repos\\sesion6\\sesion6\\ejercicio1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\Form1.cs*",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:10:57.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio1",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeDocumentMoniker": "Ejercicio1\\Ejercicio1.csproj",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeToolTip": "Ejercicio1\\Ejercicio1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T13:50:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\iamgenes\\TextFile1.txt",
+              "RelativeDocumentMoniker": "Ejercicio1\\iamgenes\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\iamgenes\\TextFile1.txt",
+              "RelativeToolTip": "Ejercicio1\\iamgenes\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACmAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-06T13:45:32.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\Sesion6\\Sesion6\\Ejercicio1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:30:32.826Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
